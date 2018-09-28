@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Modul1</string>
+    <string name="button_label_toast">Toats</string>
+    <string name="toast_message">Toast TEST</string>
+</resources>
